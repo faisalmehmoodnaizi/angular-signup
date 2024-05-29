@@ -1,0 +1,39 @@
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: blueviolet;
+    border-radius: 20px;
+  }
+  .form-group{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  input{
+    border-radius: 10px;
+    border: 1px solid purple;
+    width: 50%;
+    padding: 10px;
+    margin: auto;
+  }
+  .btn{
+    background-color: palevioletred;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    margin-left: 250px;
+    cursor: pointer;
+  }
+  .form-group {
+    margin-bottom: 15px;
+  }
+  .text-danger {
+    color: red;
+  }
+  .list-group-item {
+    margin-bottom: 5px;
+  }
+  
